@@ -1,0 +1,4 @@
+('height', 65.5)
+('width', 12.9)
+('weight', 2.13)
+('color', 'red')
